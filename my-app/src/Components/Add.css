@@ -1,0 +1,24 @@
+.modal-container{
+    width: 100%;
+    height: 100%;
+    align-content: center;
+    left: 0;
+    top: 0;
+    justify-content: center;
+    text-align: center;
+    position: fixed;
+    z-index: 1;
+    background-color: rgba(0, 0, 0, 0.4);
+}
+
+.header-box{
+    height: 150px;
+    align-content: center;
+    text-align: center;
+}
+h1{
+    display: inline;
+}
+h2{
+    background-color: white;
+}
